@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid Irfan</h1>
-<h3 align="center">A passionate frontend developer, game developer, and a motion graphics artist from Pakistan</h3>
+<h3 align="center">A passionate frontend developer, game developer, and motion graphics artist from Pakistan</h3>
 
 - 🔭 I’m currently working on a **VR Survival Simulation Game**
 
