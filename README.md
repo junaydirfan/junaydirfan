@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on a **VR Survival Simulation Game**
 
+- 💻 I’m offering **Motion Graphics** services on **<a href="https://www.fiverr.com/junaydirfan95">Fiverr</a>**
+
 - 📫 How to reach me **junaid.irfan.2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
