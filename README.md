@@ -5,6 +5,8 @@
 
 - 👨‍💻 Some of my design projects are available at [http://behance.net/junaydirfan](http://behance.net/junaydirfan)
 
+- 💻 I’m offering **Motion Graphics** services on **<a href="https://www.fiverr.com/junaydirfan95">Fiverr</a>**
+
 - 📫 How to reach me **junaid.irfan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
