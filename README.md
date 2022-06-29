@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Junaid Irfan</h1>
-<h3 align="center">A Swift & SwiftUI developer, motion graphics artist and hobbyist game developer from Pakistan</h3>
+<h3 align="center">I'm a Swift & SwiftUI developer, motion graphics artist and hobbyist game developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaydirfan" alt="junaydirfan" /></a> </p>
-
-- 🔭 I’m currently working on **Swift & SwiftUI Projects**
+- 🔭 I’m currently working on **iOS & watchOS Projects**
 
 - 👨‍💻 Some of my design projects are available at [http://behance.net/junaydirfan](http://behance.net/junaydirfan)
 
-- 💻 I’m offering **Motion Graphics** services on **<a href="https://www.fiverr.com/junaydirfan95">Fiverr</a>**
-
-- 📫 How to reach me **junaid.irfan@hotmail.com**
+- 📫 How to reach me **junaid.irfan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
