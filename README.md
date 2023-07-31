@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Junaid Irfan</h1>
-<h3 align="center">I'm a Swift & SwiftUI developer, motion graphics artist and hobbyist game developer from Pakistan</h3>
+<h3 align="center">I'm a Data Analyst, and hobbyist motion graphics artist based in Canada</h3>
 
 
-- 🔭 I’m currently working on **iOS & watchOS Projects**
+- 🔭 I’m currently working on **Data Analytics & Data Science Projects**
 
-- 👨‍💻 Some of my design projects are available at [http://behance.net/junaydirfan](http://behance.net/junaydirfan)
+- 👨‍💻 Some of my motion design (& generally design) projects are available at [http://behance.net/junaydirfan](http://behance.net/junaydirfan)
 
 - 💻 I’m offering **Motion Graphics** services on **<a href="https://www.fiverr.com/junaydirfan95">Fiverr</a>**
 
-- 📫 How to reach me **junaid.irfan@outlook.com**
+- 📫 How to reach me **junaid.irfan@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
