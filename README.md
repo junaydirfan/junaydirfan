@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junaid Irfan</h1>
+<h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">I'm a Data Analyst, and hobbyist motion graphics artist based in Canada</h3>
 
 
