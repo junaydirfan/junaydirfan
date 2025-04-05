@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
-- 🔭 I’m currently working on **my home server build**
+- 🔭 I’m currently working on **my home server build** (will post soon)
 
 - 🌱 I’m currently learning **Cloud, Microservices, Infrastructures**
 
-- 👨‍💻 My portfolio site is up at [https://portfolio.10poundingpotatoes.org/](https://portfolio.10poundingpotatoes.org/)
+- 👨‍💻 My portfolio site is up [here](https://portfolio.10poundingpotatoes.org/)!
 
-- 📝 I write sometimes on [https://medium.com/@junaid.irfan.2000](https://medium.com/@junaid.irfan.2000)
+- 📝 I write sometimes on [Medium](https://medium.com/@junaid.irfan.2000)
+
+- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/junaydirfan/)
 
 - 📫 How to reach me **junaid.irfan@hotmail.com**
-
-- 📄 Connect with me on [https://www.linkedin.com/in/junaydirfan/](https://www.linkedin.com/in/junaydirfan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
