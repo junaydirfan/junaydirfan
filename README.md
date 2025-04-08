@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
-- 🔭 I’m currently working on **my home server build** (will be posting my setup here soon)
+- 🔭 I’m currently working on **my home server build** (will be posting my setup soon)
 
 - 🌱 I’m currently learning **Cloud, Microservices, Infrastructures**
 
