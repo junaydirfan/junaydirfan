@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">A passionate Web & Cloud developer based in Canada</h3>
 
-- 🔭 I’m currently working on **my home server build** (will be posting my setup soon)
+- 🔭 I’m currently working on
+- 1.**my home server build** (will be posting my setup soon)
+- 2. NextJS LLM integrated visual novel game
 
 - 🌱 I’m currently learning **Cloud, Microservices, Infrastructures**
 
