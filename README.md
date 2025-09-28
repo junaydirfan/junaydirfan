@@ -14,7 +14,7 @@
 - 📫 How to reach me **junaid.irfan@hotmail.com**
 
 Skills: NextJS, NestJS, TypeScript/JS, React, Docker, MongoDB, SQL, SQLite, NoSQL
-<\br>
+
 Hobbies: Home servers, Self-hosted services, Cinematography, Motion Design, 3D, Video Editing
 
 <h3 align="left">Languages and Tools:</h3>
