@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud, Microservices, Infrastructures**
 
-- 👨‍💻 My portfolio site is up [here](https://junaidirfan.com/)!
+- 👨‍💻 My portfolio site is up [here](https://www.junaidirfan.com/)!
 
 - 📝 I write sometimes on [Medium](https://medium.com/@junaid.irfan.2000)
 
