@@ -11,7 +11,7 @@
 
 - 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/junaydirfan/)
 
-- 📫 How to reach me **junaid.irfan@hotmail.com**
+- 📫 How to reach me **hello@junaidirfan.com**
 
 Skills: NextJS, NestJS, TypeScript/JS, React, Docker, MongoDB, SQL, SQLite, NoSQL
 
