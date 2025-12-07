@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Junaid</h1>
-<h3 align="center">A passionate Web developer based in Canada</h3>
+<h1>Hi 👋, I'm Junaid</h1>
+<h3>A passionate Web developer based in Canada</h3>
 
 - 🔭 I’m currently working on a **NextJS LLM integrated visual novel game** & **my home server build** (will be posting about it soon)
 
