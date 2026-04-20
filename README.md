@@ -13,6 +13,6 @@
 
 - 📫 How to reach me **hello@junaidirfan.com**
 
-Skills: NextJS, NestJS, TypeScript/JS, React, AWS, Proxmox, Docker, MongoDB, SQL, SQLite, NoSQL, 
+Skills: NextJS, NestJS, TypeScript/JS, React, AWS, Proxmox, Docker, MongoDB, SQL, SQLite, NoSQL
 
 Hobbies: Home servers, Self-hosted services, Cinematography, Motion Design, 3D, Video Editing
