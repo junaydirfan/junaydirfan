@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Junaid</h1>
-<h3>A passionate Web & Cloud developer based in Canada</h3>
+<h3>A passionate Web & Cloud developer based in Toronto</h3>
 
 - 🔭 I’m currently working on a **NextJS LLM integrated visual novel game** & **my home server build** (will be posting about it soon)
 
