@@ -15,4 +15,4 @@
 
 Skills: NextJS, NestJS, TypeScript/JS, React, AWS, Proxmox, Docker, MongoDB, SQL, SQLite, NoSQL
 
-Hobbies: Home servers, Self-hosted services, Cinematography, Motion Design, 3D, Video Editing
+Hobbies: Home servers, Self-hosted services, Cinematography, Motion Design, 3D
