@@ -1,20 +1,99 @@
-<h1>Hi 👋, I'm Junaid</h1>
-<h3>A passionate Web & Cloud developer based in Toronto</h3>
+# Hi, I'm Junaid!
 
-- 🔭 I’m currently working on a **NextJS LLM integrated visual novel game** & **MLOps project**
+### Full-Stack & Cloud Engineer based in Toronto
 
-- 🌱 I’m currently learning **Cloud, Microservices, Infrastructures, ML**
+I build full-stack products, cloud-native systems, and self-hosted infrastructure with a focus on reliability, clean user experiences, and practical automation.
 
-- 👨‍💻 My portfolio site is up [here](https://www.junaidirfan.com/)!
+[![Portfolio](https://img.shields.io/badge/Portfolio-junaidirfan.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.junaidirfan.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaydirfan/)
+[![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@junaid.irfan.2000)
+[![Email](https://img.shields.io/badge/Email-hello%40junaidirfan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@junaidirfan.com)
 
-- 📝 I write sometimes on [Medium](https://medium.com/@junaid.irfan.2000)
+---
 
-- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/junaydirfan/)
+## About Me
 
-- 🔧 Recent Projects: [OneApply](https://www.oneapply.app), [A Practical Proxmox Homelab Guide](https://medium.com/@junaid.irfan.2000/i-built-my-first-home-server-a-practical-proxmox-homelab-guide-1d6fd5dc0c17)
+- Currently working on a **Next.js LLM-integrated visual novel game** and an **MLOps project**
+- Learning deeper **cloud architecture, microservices, infrastructure, and machine learning systems**
+- Master's in Computer Science with a foundation in software engineering, advanced algorithms, databases, and distributed systems
+- Experienced across full-stack development, DevOps, IT operations, cloud infrastructure, and automation
+- Interested in home servers, self-hosted services, cinematography, motion design, and 3D
 
-- 📫 How to reach me **hello@junaidirfan.com**
+---
 
-Skills: NextJS, NestJS, TypeScript/JS, React, AWS, Proxmox, Docker, K8s, MongoDB, SQL, SQLite, NoSQL
+## Featured Work
 
-Hobbies: Home servers, Self-hosted services, Cinematography, Motion Design, 3D
+| Project | What it is |
+| --- | --- |
+| [OneApply](https://www.oneapply.app) | A modern web product focused on simplifying applications and workflow experiences |
+| [A Practical Proxmox Homelab Guide](https://medium.com/@junaid.irfan.2000/i-built-my-first-home-server-a-practical-proxmox-homelab-guide-1d6fd5dc0c17) | A hands-on writeup about building a first home server and self-hosted lab |
+
+---
+
+## Tech Stack
+
+### Languages
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+### Frontend & Backend
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+### Cloud, DevOps & Infrastructure
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)](https://www.dynatrace.com/)
+
+### Databases, CMS & Tools
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
+[![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge)](https://www.mongodb.com/resources/basics/databases/nosql-explained)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=000)](https://neon.com/)
+[![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)](https://www.sanity.io/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+### Self-Hosting & Systems
+
+[![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=000)](https://www.kernel.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![LXC](https://img.shields.io/badge/LXC-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white)](https://linuxcontainers.org/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=000)](https://www.servicenow.com/)
+
+---
+
+## Experience Snapshot
+
+- **IT Operations Practice, FDM Skills Lab** - Practicing Agile IT Service Management, ServiceNow workflows, Linux administration, knowledge management, and incident/problem processes.
+- **DevOps Intern, Adventure Triangle** - Worked on cloud infrastructure, containerization, CI/CD pipelines, monitoring, and automated alerts using AWS, GitHub Actions, and Docker.
+- **Webmaster, Bishop's University SRC** - Maintained responsive web applications and collaborated with design/editorial teams, improving student engagement by 30%.
+- **Software Developer, Bytewise** - Built full-stack MERN applications, secure RESTful APIs, and database-backed systems handling 1,000+ daily API requests.
+
+---
+
+## Highlights
+
+- Solo winner of **BU Eviden SecureVote '24 Hackathon**
+- Built and optimized CI/CD workflows for reliable deployments
+- Managed and monitored systems with a focus on high availability
+- Comfortable moving between frontend, backend, cloud infrastructure, and self-hosted systems
