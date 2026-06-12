@@ -86,8 +86,6 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 | --- | --- |
 | [OneApply](https://www.oneapply.app) | A modern web product focused on simplifying applications and workflow experiences |
 | [A Practical Proxmox Homelab Guide](https://medium.com/@junaid.irfan.2000/i-built-my-first-home-server-a-practical-proxmox-homelab-guide-1d6fd5dc0c17) | A hands-on writeup about building a first home server and self-hosted lab |
-| Next.js LLM Visual Novel Game | An interactive visual novel project integrating LLM-driven experiences |
-| MLOps Project | A cloud and infrastructure-focused project exploring ML workflows and deployment practices |
 
 ---
 
