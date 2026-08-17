@@ -91,10 +91,10 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 
 ## Experience Snapshot
 
+- **DevSecOps Engineer, Scrum Master, IT Operations Consultant, FDM Skills Lab** - Practicing Agile IT Service Management, ServiceNow workflows, Linux administration, knowledge management, and incident/problem processes.
 - **DevOps Intern, Adventure Triangle** - Worked on cloud infrastructure, containerization, CI/CD pipelines, monitoring, and automated alerts using AWS, GitHub Actions, and Docker.
 - **Webmaster, Bishop's University SRC** - Maintained responsive web applications and collaborated with design/editorial teams, improving student engagement by 30%.
 - **Software Developer, Bytewise** - Built full-stack MERN applications, secure RESTful APIs, and database-backed systems handling 1,000+ daily API requests.
-- **IT Operations Practice, FDM Skills Lab** - Practicing Agile IT Service Management, ServiceNow workflows, Linux administration, knowledge management, and incident/problem processes.
 
 ---
 
