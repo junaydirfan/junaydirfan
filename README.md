@@ -18,7 +18,7 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 - Master's in Computer Science with a foundation in software engineering, advanced algorithms, databases, and distributed systems
 - Experienced across full-stack development, DevOps, IT operations, cloud infrastructure, and automation
 - Interested in home servers, self-hosted services, cinematography, motion design, and 3D
-
+- My daily-driver distro of choice: [CachyOS](https://github.com/cachyos)
 ---
 
 ## Tech Stack
