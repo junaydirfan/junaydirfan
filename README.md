@@ -78,6 +78,9 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 [![LXC](https://img.shields.io/badge/LXC-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white)](https://linuxcontainers.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=000)](https://www.servicenow.com/)
+[![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white)](https://nginxproxymanager.com/)
+[![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)](https://pi-hole.net/)
+[![NetBird](https://img.shields.io/badge/NetBird-F68330?style=for-the-badge&logo=netbird&logoColor=white)](https://netbird.io/)
 
 ---
 
