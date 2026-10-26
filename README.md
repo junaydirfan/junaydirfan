@@ -101,7 +101,7 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 | --- | --- |
 | [OneApply](https://www.oneapply.app) | A modern web product focused on simplifying applications and workflow experiences |
 | [A Practical Proxmox Homelab Guide](https://medium.com/@junaid.irfan.2000/i-built-my-first-home-server-a-practical-proxmox-homelab-guide-1d6fd5dc0c17) | A hands-on writeup about building a first home server and self-hosted lab |
-| [Audeze for linux](https://www.github.com/junaydirfan/audezeforlinux) | A definitive control centre on linux for Audeze Maxwell 2 & 1 headphones |
+| [Audeze for Linux](https://www.github.com/junaydirfan/audezeforlinux) | A native terminal-based companion on linux for Audeze Maxwell 2 & 1 headphones |
 
 ---
 
