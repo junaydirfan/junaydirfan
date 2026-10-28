@@ -8,6 +8,7 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaydirfan/)
 [![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@junaid.irfan.2000)
 [![Email](https://img.shields.io/badge/Email-hello%40junaidirfan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@junaidirfan.com)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/junaydirfan/badge.svg)](https://hub.xerj.org/contributors/junaydirfan)
 
 ---
 
