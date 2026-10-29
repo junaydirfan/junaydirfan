@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm Junaid!
 
 ### Full-Stack & Cloud Engineer based in Toronto
@@ -9,8 +10,38 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 [![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@junaid.irfan.2000)
 [![Email](https://img.shields.io/badge/Email-hello%40junaidirfan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@junaidirfan.com)
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/junaydirfan/badge.svg)](https://hub.xerj.org/contributors/junaydirfan)
+</div>
 
----
+```
+      #                    junaids@cachyos-x8664
+      #      #        #    ---------------------
+     ##      #       #     OS: CachyOS x86_64
+    # #     ##      #      Host: 83DE (Legion Pro 7 16IRX9H)
+   #  #     ##     #       Kernel: Linux 7.2.11-1-cachyos
+  #   #    # #    #        Uptime: 10 days, 7 hours, 27 mins
+ #   #     # #   #         Packages: 2 (appimage), 23 (flatpak), 1500 (pacman)
+#    #  ###  #  #          Shell: fish 4.9.3
+     # #     # #           Display (BOE0C8B): 2560x1600 @ 1.5x in 16", 240 Hz [Built-in] *
+    ###      ##            Display (V247Y): 1920x1080 in 24", 120 Hz [External]
+   # #      ##             Display (LS24AG30x): 1920x1080 in 24", 144 Hz [External]
+  #  #      ##             Desktop Environment: KDE Plasma 6.8.1
+  #  #      #              Window Manager: KWin (Wayland)
+  #  #                     WM Theme: Layan
+  #  #                     Theme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3/4]
+  #  #                     Icons: YAMIS [Qt], YAMIS [GTK2/3/4]
+  #  #                     Font: Helvetica (10pt) [Qt], Helvetica (10pt) [GTK2/3/4]
+  #  #                     Cursor: WhiteSur (24px)
+   ##                      Terminal: konsole 26.8.2
+                           CPU: Intel(R) Core(TM) i9-14900HX (16+16) @ 5.80 GHz
+                           GPU 1: NVIDIA GeForce RTX 4080 Max-Q / Mobile [Discrete]
+                           GPU 2: Intel Raptor Lake-S UHD Graphics @ 1.65 GHz [Integrated]
+                           Memory: 23.02 GiB / 31.06 GiB (74%)
+                           Swap: 13.62 GiB / 31.06 GiB (44%)
+                           Disk (/): 126.07 GiB / 949.87 GiB (13%) - btrfs
+                           Disk (/mnt/storage): 605.31 GiB / 915.82 GiB (66%) - ext4
+                           Battery (L22D4PC1): 80% [AC Connected]
+                           Locale: en_CA.UTF-8
+```
 
 ## About Me
 
