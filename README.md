@@ -51,6 +51,7 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 - Master's in Computer Science with a foundation in software engineering, advanced algorithms, databases, and distributed systems
 - Experienced across full-stack development, DevOps, IT operations, cloud infrastructure, AI, and automation
 - Interested in virtualization, self-hosted services, cinematography, motion design, and 3D
+- My Linux distro of choice is [CachyOS](https://cachyos.org/) and you can find my dotfiles [here](https://github.com/junaydirfan/cachyos-dotfiles).
 ---
 
 ## Tech Stack
