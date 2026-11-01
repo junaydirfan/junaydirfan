@@ -152,7 +152,7 @@ I build full-stack products, cloud-native systems, and self-hosted infrastructur
 
 ## Highlights
 
-- Solo winner of **BU Eviden SecureVote '24 Hackathon**
+- Solo dev winner at **BU Eviden SecureVote '24 Hackathon**
 - Built and optimized CI/CD workflows for reliable deployments
 - Managed and monitored systems with a focus on high availability
 - Comfortable moving between frontend, backend, cloud infrastructure, and self-hosted systems
