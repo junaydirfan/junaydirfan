@@ -2,7 +2,7 @@
       
 # Hi, I'm Junaid!
 
-### Full-Stack & Cloud Engineer based in Toronto
+### Full-Stack & Cloud Engineer
 
 I build full-stack products, cloud-native systems, and self-hosted infrastructure with a focus on reliability, clean user experiences, and practical automation.
 
